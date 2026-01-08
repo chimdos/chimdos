@@ -11,7 +11,7 @@ Meu diferencial é a mentalidade **AppSec** (Segurança desde o design) e a faci
 ### Destaques e Projetos Atuais
 
 * **[FashionHub](https://github.com/chimdos/fashionhub):** Liderando a arquitetura Mobile de uma startup real de e-commerce. Implementando fluxos complexos de checkout, gestão de malas (bags) e integração em tempo real via Node.js e React Native.
-* **[BSErgg & Brawl Stars Rating](https://github.com/chimdos/bsergg):** Desenvolvendo algoritmos de pontuação para o cenário competitivo de Brawl Stars. O projeto lida com cálculos de peso por jogador, histórico de transferências entre times e multipliers de entrosamento (3/3, 2/3).
+* **[BSERgg & Brawl Stars Rating](https://github.com/chimdos/bsergg):** Desenvolvendo algoritmos de pontuação para o cenário competitivo de Brawl Stars. O projeto lida com cálculos de peso por jogador, histórico de transferências entre times e multipliers de entrosamento (3/3, 2/3).
 * **[Alô Agro 2.0](https://github.com/chimdos/aloagro-laravel):** Refatoração completa de um sistema de gestão agrícola para uma API RESTful moderna utilizando **Laravel 11**, focado em otimização de queries e segurança de dados.
 * **[Amazon Prediction](https://github.com/chimdos/amazon-ml):** Pesquisa e desenvolvimento em Machine Learning com Python para análise preditiva de desmatamento.
 
