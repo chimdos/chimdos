@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Mobile Specialist | Cybersecurity & Data Enthusiast**
 
-Sou desenvolvedor focado em construir aplicações seguras e escaláveis. Atualmente, curso Técnico em Informática na **ETEC Fernando Prestes (Sorocaba)**, onde desenvolvo projetos que unem performance no Front-end com arquiteturas robustas no Back-end. 
+Sou desenvolvedor focado em construir aplicações seguras e escaláveis. Atualmente, sou Técnico em Informática pela  **ETEC Fernando Prestes (Sorocaba)**, cursando Ciência da Computação pela **Universidade de Sorocaba** e Desenvolvedor Full-Stack Mobile pela startup FashionHub. 
 
 Meu diferencial é a mentalidade **AppSec** (Segurança desde o design) e a facilidade em lidar com lógica de dados complexa.
 
