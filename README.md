@@ -1,4 +1,4 @@
-# Olá, eu sou o Daniel Martins
+# Olá, eu sou Daniel Martins
 
 **Full Stack Developer | Mobile Specialist | Cybersecurity & Data Enthusiast**
 
