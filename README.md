@@ -59,4 +59,4 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Júnior** ou 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.danielmartins@gmail.com)
 
 ---
-*“aliás, em quem você vai pensar quando a vida inteira passar diante dos olhos?”*
+*“em quem você vai pensar quando a vida inteira passar diante dos olhos?”*
