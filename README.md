@@ -16,17 +16,12 @@ Minha abordagem é baseada no **"Security by Design"**: não basta o código fun
 * Implementação de sistemas de pagamento com **Escrow**, dashboards de KPI e busca avançada com **Elasticsearch**.
 * Arquitetura baseada em **SOLID** e **Clean Code**, com foco total em segurança de transações e dados sensíveis.
 
-#### [BSERgg & BSERgg-API](https://github.com/chimdos/bsergg) (Open Source)
-* **Data Intelligence & Game API | Node.js, Python**
-* Sistema de rating para o cenário competitivo de Brawl Stars.
-* Desenvolvimento de algoritmo de scouting utilizando **Cosine Similarity** para medir sinergia entre players e identificar talentos brutos através de normalização estatística.
-
 #### [Amazon Deforestation Predictor](https://github.com/chimdos/amazondeforestation)
 * **Data Science & Machine Learning | Python, Scikit-learn, Streamlit**
 * Modelo de **Regressão Linear** treinado com dados históricos da última década para prever taxas de desmatamento na Amazônia.
 * Interface interativa para visualização de tendências climáticas e ambientais.
 
-#### [Alô Agro](https://github.com/chimdos) (Em Migração)
+#### [Alô Agro](https://github.com/chimdos) (Privado/Em Migração)
 * **Full Stack | PHP, MySQL, Laravel**
 * Sistema de gestão agrícola focado em **acessibilidade digital**.
 * Atualmente em processo de refatoração para **Laravel 11**, aplicando padrões de API RESTful e otimização de queries.
