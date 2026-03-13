@@ -39,16 +39,7 @@ Minha abordagem é baseada no **"Security by Design"**: não basta o código fun
 
 ---
 
-### Estatísticas e Atividade
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chimdos&show_icons=true&theme=dracula&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimdos&layout=compact&theme=dracula&hide_border=true" height="165" />
-</p>
-
----
-
-### Vamos construir algo seguro?
+### Vamos construir algo?
 
 Estou focado em oportunidades como **Desenvolvedor Júnior** ou **Estagiário em Engenharia de Software**. Se você busca alguém que domina a lógica de negócio e trata a segurança como prioridade, vamos conversar!
 
