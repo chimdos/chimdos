@@ -1,51 +1,44 @@
-# Olá, eu sou Daniel Martins
+# Daniel Martins
 
-**Full Stack Software Engineer | Security Specialist | Data Enthusiast**
+I build things because I like solving problems that actually matter. My real learning comes from breaking things and figuring out how to make them resilient.
 
-Sou um desenvolvedor focado na intersecção entre performance, escalabilidade e cibersegurança. Atualmente, curso **Ciência da Computação na UNISO** e atuo como Lead Developer no projeto **FashionHub**, onde aplico conceitos de arquitetura limpa e segurança ofensiva/defensiva em um ambiente de produção real.
-
-Minha abordagem é baseada no **"Security by Design"**: não basta o código funcionar, ele precisa ser resiliente e eficiente.
+If my work can cause a small positive change in someone's life, it's worth the effort.
 
 ---
 
-### Projetos em Destaque
+### Public Work & Open Source
 
-#### [FashionHub](https://github.com/chimdos) (Privado/Commercial)
-* **Lead Full Stack Developer | React Native, Node.js, GCP, PostgreSQL**
-* Liderança técnica de um marketplace completo com deploy em produção.
-* Implementação de sistemas de pagamento com **Escrow**, dashboards de KPI e busca avançada com **Elasticsearch**.
-* Arquitetura baseada em **SOLID** e **Clean Code**, com foco total em segurança de transações e dados sensíveis.
+#### **BSERgg**
+This project bridges the gap between raw gaming data and actionable insights. It evolved from a personal curiosity about competitive play into a public, modular Python library.
 
-#### [Amazon Deforestation Predictor](https://github.com/chimdos/amazondeforestation)
-* **Data Science & Machine Learning | Python, Scikit-learn, Streamlit**
-* Modelo de **Regressão Linear** treinado com dados históricos da última década para prever taxas de desmatamento na Amazônia.
-* Interface interativa para visualização de tendências climáticas e ambientais.
-
-#### [Alô Agro](https://github.com/chimdos) (Privado/Em Migração)
-* **Full Stack | PHP, MySQL, Laravel**
-* Sistema de gestão agrícola focado em **acessibilidade digital**.
-* Atualmente em processo de refatoração para **Laravel 11**, aplicando padrões de API RESTful e otimização de queries.
+* **The Problem**: Competitive gaming data is often unstructured or difficult to measure consistently.
+* **The Solution**: A specialized rating engine that implements ranking algorithms for Brawl Stars.
+* **Impact**: Developers can now integrate professional-grade player metrics into their own data pipelines or dashboards without building the logic from scratch.
 
 ---
 
-### Minha Stack Técnica
+### What I'm building right now
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Mobile & Front-end** | React Native, TypeScript, React.js, TailwindCSS |
-| **Back-end & DB** | Node.js (Express), PHP (Laravel), PostgreSQL, MySQL, SQLite |
-| **Segurança & DevOps** | OWASP Top 10, Google Cloud (GCP), Clean Architecture, Docker |
-| **Data Science** | Python, Pandas, Scikit-learn, Streamlit |
+#### **FashionHub**
+Leading the technical development of a full-scale e-commerce marketplace.
 
----
-
-### Vamos construir algo?
-
-Estou focado em oportunidades como **Desenvolvedor Júnior** ou **Estagiário em Engenharia de Software**. Se você busca alguém que domina a lógica de negócio e trata a segurança como prioridade, vamos conversar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chimdos)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.danielmartins@gmail.com)
+* **Security-First**: Implementing secure transaction flows with Escrow systems to prevent fraud.
+* **Performance**: Integrating Elasticsearch for advanced, low-latency search capabilities across thousands of items.
+* **Scalability**: Applying SOLID principles and Clean Architecture to ensure the system remains maintainable as it grows.
+* **Reliability**: Managing infrastructure on Google Cloud (GCP) to ensure high availability for end-users.
 
 ---
 
-> *“em quem você vai pensar quando a vida inteira passar diante dos olhos?”*
+### Technical Toolbelt
+
+I use these tools not because they are trendy, but because they get the job done:
+
+* **Core**: React Native, TypeScript, Node.js, PHP (Laravel), Python.
+* **Infrastructure**: PostgreSQL, MySQL, Google Cloud (GCP), Docker.
+* **Security**: Pentesting, OWASP Top 10, and defensive architecture.
+
+---
+
+> *"Who will you think of<br>
+> as your whole life flashes<br>
+> right before your eyes?"*
