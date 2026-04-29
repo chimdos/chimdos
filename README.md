@@ -1,7 +1,5 @@
 # Daniel Martins
 
-I build things because I like solving problems that actually matter. My real learning comes from breaking things and figuring out how to make them resilient.
-
 If my work can cause a small positive change in someone's life, it's worth the effort.
 
 ---
