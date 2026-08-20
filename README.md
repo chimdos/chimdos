@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Daniel Martins 👋</h1>
-<h3 align="center"> Junior Full Stack Developer | Web & Mobile | App Security & System Architecture</h3>
+<h1 align="center">Hi, I'm Daniel Martins!!</h1>
+<h3 align="center">Computer Science Student | Software Development & Applied Data Science</h3>
 <p align="center">📍 Based in Sorocaba, Brazil</p>
 
 <p align="center">
@@ -12,52 +12,48 @@
 
 ### About
 
-I build end-to-end systems, from cloud infrastructure on GCP to mobile interfaces in React Native. Most of my work leans toward secure-by-design solutions, following OWASP standards, and toward the kind of architecture decisions that keep a codebase manageable once it grows past the first few sprints.
+Computer Science undergraduate at **Universidade de Sorocaba (UNISO)** with a technical background from **ETEC Fernando Prestes**.
 
-🎓 Currently studying Computer Science at **Universidade de Sorocaba (UNISO)**.
-
----
-
-### What I'm building right now
-
-#### 👜 ModaBOX
-*A mobile marketplace connecting customers, retailers, and delivery partners in a single platform.*
-
-- Owned the end-to-end architecture, covering 12 entities and 48 API endpoints
-- Set up and manage the GCP environment, including a high-availability PostgreSQL instance
-- Implemented authentication and password protection with Argon2id, following OWASP guidelines against brute-force and side-channel attacks
-- Built escrow-based payment flows to keep transactions safe between buyers and sellers
-- Developed the React Native interface for three distinct user profiles, sharing a single navigation architecture
-- Set up global state and a centralized design system with Context API and custom hooks
+I use applied **data science, statistical modeling, and full-stack development** to build cool stuff.
 
 ---
 
 ### Public Work & Open Source
 
-#### 🏆 [BSERgg - Competitive Rating Engine](https://github.com/chimdos/BSERgg)
-A statistical analysis engine for competitive Brawl Stars, processing roughly 700 to 1,200 match sets a month from official tournaments. It calculates performance benchmarks against lobby averages, applying separate expectation matrices per game mode and character class, plus an elastic normalization curve to keep small sample sizes from skewing results. Business logic covers 106 characters and 6 game modes, including synergy bonuses and compensation adjustments for characters that perform outside their class profile.
+#### 🏆 [BSERgg: Competitive Rating Engine](https://github.com/chimdos/BSERgg)
+*Python, NumPy, Object-Oriented Programming*
+- Built an open-source Python analytical engine to process match statistics from competitive Brawl Stars tournaments.
+- Designed a multidimensional rating algorithm inspired by esports frameworks (HLTV), implementing elastic power-curve normalization to mitigate outlier bias in small samples.
+- Modeled conditional game logic across 100+ entities, including objective weight matrices and synergy modifiers.
 
-#### 🌾 Alô Agro E-commerce
-Capstone project for my technical degree at ETEC Fernando Prestes. Led the migration from a legacy raw PHP codebase to Laravel, rebuilding CRUD workflows, authentication, and cart state management for a production-like environment.
+#### 🌳 [Amazon Deforestation Analysis](https://github.com/chimdos/amazondeforestation)
+*Python, Scikit-learn, Pandas, NumPy, Time Series*
+- Conducted a predictive modeling study evaluating regression algorithms (Linear, Ridge, Decision Tree, and Random Forest) on socioeconomic and climate time-series data from the Xingu basin (2015–2025).
+- Engineered temporal lag features and reduced dimensionality from 25 to 14 attributes to prevent overfitting on limited sample sizes.
+- Implemented chronological cross-validation via `TimeSeriesSplit` across 5 windows, identifying institutional regime shifts and achieving an $R^2$ of up to 0.63 in regular intervals.
 
-#### 🌳 Amazon Deforestation Analysis
-A multiple linear regression model predicting deforestation rates in the Xingu region, built on a monthly time series from 2015 to 2025. It cross-references six socioeconomic and climate variables, including commodity prices, rainfall, fire hotspots, and environmental enforcement data.
+#### 👜 [ModaBOX](https://github.com/chimdos)
+*TypeScript, React Native, Node.js, PostgreSQL, GCP*
+- Developed full-stack features for a mobile marketplace, structuring 48 REST API endpoints and 12 relational entities.
+- Implemented core security practices using OWASP standards and Argon2id hashing for authentication.
+- Modeled PostgreSQL relational queries utilizing native Full-Text Search (`tsvector` and trigrams) for product catalog indexing.
+- Built a cross-platform mobile interface in React Native with unified navigation for customer, merchant, and delivery roles.
+
+#### 🌾 [Alô Agro: E-commerce](https://github.com/chimdos)
+*PHP, Laravel, MySQL, MVC*
+- Built an agricultural e-commerce web platform applying the Model-View-Controller (MVC) architecture.
+- Developed catalog CRUD workflows, secure user authentication, and session-based cart state management.
 
 ---
 
 ### Toolbelt
 
-**Languages** `TypeScript` `JavaScript` `Python` `PHP` `SQL`
-
-**Frontend & Mobile** `React Native` `React.js` `Tailwind CSS` `Context API` `Redux`
-
-**Backend & Security** `Node.js` `Express` `Laravel` `RESTful APIs` `JWT` `Argon2id` `OWASP practices`
-
-**Data & Infrastructure** `Google Cloud Platform` `PostgreSQL` `MySQL` `Git`
-
-**Data Science** `NumPy` `Pandas` `Scikit-learn`
-
-**Concepts** `System design` `Clean Code` `SOLID` `Design patterns` `CI/CD`
+* **Languages:** Python, TypeScript, JavaScript (ES6+), PHP, SQL
+* **Data Science & ML:** NumPy, Pandas, Scikit-learn, Time-Series Analysis, Feature Engineering
+* **Backend & Cloud:** Node.js (Express), Laravel, Google Cloud Platform (GCP), RESTful APIs, JWT, Argon2id, OWASP Guidelines
+* **Databases:** PostgreSQL (Full-Text Search), MySQL
+* **Frontend & Mobile:** React Native, React.js, Tailwind CSS, Context API, Redux
+* **Engineering Practices:** Git / GitHub (Git Flow), OOP, MVC, SOLID Principles, Unit Testing Basics
 
 ---
 
